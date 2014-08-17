@@ -1,0 +1,43 @@
+GPLv2: Licensed under GNU General Public License version2.
+http://www.gnu.org/licenses/gpl-2.0.html
+See also the GPL file.
+
+CC BY-SA 3.0: Licensed under Creative Commons Attribution-ShareAlike 3.0 Unported.
+http://creativecommons.org/licenses/by-sa/3.0/
+See also the CC BY-SA 3.0 file.
+
+You must include a link to http://evolonline.org in your credits along with the author's name.
+
+For Evol Online contributor and license ressources, check the following links:
+http://wiki.evolonline.org/contributors
+https://www.gitorious.org/evol/clientdata/blobs/master/CONTRIBUTORS
+http://wiki.evolonline.org/license
+https://www.gitorious.org/evol/evol-media/blobs/master/LICENSE
+
+---------------------------------------------------------------------------------------------------------------------------------
+
+# Folder
+    path/to/the/licensed/work.something (Authors' Nick)                     (License)             (Contributors' Nick)
+
+# Tiled animation
+    Tiled animation/water.tsx (Reid)                              (CC BY-SA 3.0)        (-)
+
+# Tileset
+    Tileset/Artis_accessories.xcf (IvanMorve, Reid)               (CC BY-SA 3.0)        (-)
+    Tileset/Artis_blockwall.xcf (Hal9000, Reid)                   (CC BY-SA 3.0)        (-)
+    Tileset/Artis_bridge.xcf (Hal9000)                            (CC BY-SA 3.0)        (EJlol, Reid)
+    Tileset/Artis_dock.xcf (Reid)                                 (CC BY-SA 3.0)        (-)
+    Tileset/Artis_dock_debug.png (Reid)                           (CC BY-SA 3.0)        (-)
+    Tileset/Artis_door.xcf (Reid)                                 (CC BY-SA 3.0)        (-)
+    Tileset/Artis_fence.xcf (Reid)                                (CC BY-SA 3.0)        (Kestrel)
+    Tileset/Artis_house.xcf (IvanMorve, Reid)                     (CC BY-SA 3.0)        (-)
+    Tileset/Artis_indoor.xcf (Reid)                               (CC BY-SA 3.0)        (IvanMorve, Lien)
+    Tileset/Artis_market.xcf (EJlol, IvanMorve, Reid)             (CC BY-SA 3.0)        (-)
+    Tileset/Artis_pavement.xcf (IvanMorve, Reid)                  (CC BY-SA 3.0)        (-)
+    Tileset/Artis_waterblockwall.xcf (Hal9000, Reid)              (CC BY-SA 3.0)        (-)
+    Tileset/Ground.xcf (FotherJ, IvanMorve, Len, Reid)            (CC BY-SA 3.0)        (Crush)
+    Tileset/Ship.xcf (Lunovox)                                    (GPLv2)               (Hal9000,  Reid, Saci)
+    Tileset/Ship_indoor.xcf (Lunovox)                             (GPLv2)               (Reid, Saci)
+    Tileset/Ship_mast.xcf (Lunovox)                               (GPLv2)               (Alige, Hal9000, Reid, Saci)
+
+(-): No other contributor.
