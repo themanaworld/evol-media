@@ -21,7 +21,9 @@ https://www.gitorious.org/evol/evol-media/blobs/master/LICENSE
 
 # NPC
     NPC/Artis_indoor_door.xcf (Reid)                                        (CC BY-SA 3.0)        (IvanMorve)
-    NPC/Terry.xcf (Reid)                                                    (CC BY-SA 3.0)        (Salva)
+    NPC/Terry/Terry_1.xcf (Reid)                                            (CC BY-SA 3.0)        (Salva)
+    NPC/Terry/Terry_2.xcf (Reid)                                            (CC BY-SA 3.0)        (Salva)
+    NPC/Terry/Terry_3.xcf (Reid)                                            (CC BY-SA 3.0)        (Salva)
 
 # Tiled animation
     Tiled animation/water.tsx (Reid)                                        (CC BY-SA 3.0)        (-)
