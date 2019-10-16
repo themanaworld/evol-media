@@ -20,16 +20,20 @@ https://www.gitorious.org/evol/evol-media/blobs/master/LICENSE
     path/to/the/licensed/work.something (Authors' Nick)                     (License)             (Contributors' Nick)
 
 # Equipment
-    Equipment/vneckjumper-female.xcf (Reid, Saphy)                          (CC BY-SA 3.0)        (-)
-    Equipment/vneckjumper-male.xcf (Reid, Saphy)                            (CC BY-SA 3.0)        (-)
+    Equipment/hathathat.xcf (COLLECTION)                                    (CC BY-SA 3.0 / GPLv2)(-)
     Equipment/legionarmor-female.xcf (Reid)                                 (CC BY-SA 3.0)        (Saphy)
     Equipment/legionarmor-male.xcf (Reid)                                   (CC BY-SA 3.0)        (Saphy)
+    Equipment/legionarmor-male.xcf (Reid)                                   (CC BY-SA 3.0)        (Saphy)
+    Equipment/sprites MASTER.xcf (COLLECTION)                               (CC BY-SA 3.0 / GPLv2)(-)
+    Equipment/vneckjumper-female.xcf (Reid, Saphy)                          (CC BY-SA 3.0)        (-)
+    Equipment/vneckjumper-male.xcf (Reid, Saphy)                            (CC BY-SA 3.0)        (-)
 
 # Icon
   # 16*16
     Icon/16/amulet.png (Reid)                                               (CC BY-SA 3.0)        (-)
     Icon/16/blue-shield-1.png (Reid)                                        (CC BY-SA 3.0)        (-)
     Icon/16/blue-shield-2.png (Reid)                                        (CC BY-SA 3.0)        (-)
+    Icon/16/potionicons.xcf (Micksha)                                       (CC BY-SA 3.0)        (-)
 
 # NPC
     NPC/Artis_indoor_door.xcf (Reid)                                        (CC BY-SA 3.0)        (IvanMorve)
@@ -52,11 +56,17 @@ https://www.gitorious.org/evol/evol-media/blobs/master/LICENSE
     Other/Overworld.png (WildX)                                             (CC BY-SA 3.0)        (Wushin, Micksha)
     Other/OverworldStylized.xcf (WildX, Micksha)                            (CC BY-SA 3.0)        (-)
     Other/Ship.gbr (Wushin)                                                 (CC BY-SA 3.0)        (-)
-    Other/WorldMap.png (Bagzie, IvanMorve, Len, Reid, Wushin)               (CC BY-SA 3.0)        (-)
+    Other/worldmap_mick_0.4.png (Micksha)                                   (CC BY-SA 3.0)        (-)
+    Other/worldmap_mick_3.1.png (Micksha)                                   (CC BY-SA 3.0)        (-)
+    Other/worldmap_mick_3.1.xcf (Micksha)                                   (CC BY-SA 3.0)        (-)
     Other/WorldMap.tmx (Wushin)                                             (CC BY-SA 3.0)        (-)
+    Other/Sprites/firedummy2.xcf (Micksha)                                  (CC BY-SA 3.0)        (-)
+    Other/Sprites/growing flowers.xcf (Micksha)                             (CC BY-SA 3.0)        (-)
+    Other/Sprites/rowboat.xcf (Micksha)                                     (CC BY-SA 3.0)        (-)
 
 # Skill
     Skill/skill.xcf (Reid)                                                  (CC BY-SA 3.0)        (-)
+    Skill/skill icons.xcf (Micksha)                                         (CC BY-SA 3.0)        (-)
 
 # Tiled animation
     Tiled animation/water.tsx (Reid)                                        (CC BY-SA 3.0)        (-)
@@ -79,9 +89,13 @@ https://www.gitorious.org/evol/evol-media/blobs/master/LICENSE
     Tileset/Artis_pavement.xcf (IvanMorve, Reid)                            (CC BY-SA 3.0)        (-)
     Tileset/Artis_waterblockwall.xcf (Hal9000, Reid)                        (CC BY-SA 3.0)        (-)
     Tileset/Ground.xcf (FotherJ, IvanMorve, Len, Reid)                      (CC BY-SA 3.0)        (Crush)
+    Tileset/hurns_cave.xcf (Micksha)                                        (CC BY-SA 3.0)        (-)
     Tileset/Hurns_ground.xcf (FotherJ, IvanMorve, Len, Reid)                (CC BY-SA 3.0)        (Crush)
+    Tileset/LAVA.xcf (Micksha)                                              (CC BY-SA 3.0)        (-)
+    Tileset/NewTrees.xcf (Micksha)                                          (CC BY-SA 3.0)        (-)
     Tileset/Ship.xcf (Lunovox)                                              (GPLv2)               (Hal9000,  Reid, Saci)
     Tileset/Ship_indoor.xcf (Lunovox)                                       (GPLv2)               (Reid, Saci)
     Tileset/Ship_mast.xcf (Lunovox)                                         (GPLv2)               (Alige, Hal9000, Reid, Saci)
+    Tileset/water-flow.xcf (Micksha)                                        (CC BY-SA 3.0)        (-)
 
 (-): No other contributor.
